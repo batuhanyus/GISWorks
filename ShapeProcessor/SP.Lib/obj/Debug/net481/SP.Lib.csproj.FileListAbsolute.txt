@@ -1,8 +1,3 @@
-D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.csproj.AssemblyReference.cache
-D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.AssemblyInfoInputs.cache
-D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.AssemblyInfo.cs
-D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.csproj.CoreCompileInputs.cache
 D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net481\Proj\proj.db
 D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net481\Proj\x64\proj_9_0.dll
 D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net481\Proj\x64\sqlite3.dll
@@ -14,6 +9,11 @@ D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net481\SP.Lib.dll
 D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net481\SP.Lib.pdb
 D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net481\EGIS.Projections.dll
 D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net481\EGIS.ShapeFileLib.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.csproj.AssemblyReference.cache
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.AssemblyInfoInputs.cache
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.AssemblyInfo.cs
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.csproj.CoreCompileInputs.cache
 D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.csproj.CopyComplete
 D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.dll
 D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net481\SP.Lib.pdb

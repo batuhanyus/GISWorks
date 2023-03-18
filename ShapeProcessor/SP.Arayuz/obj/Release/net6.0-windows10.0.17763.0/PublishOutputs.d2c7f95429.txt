@@ -1,0 +1,17 @@
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\SP.Arayuz.exe
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\Proj\proj.db
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\Proj\x64\proj_9_0.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\Proj\x64\sqlite3.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\Proj\x86\proj_9_0.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\Proj\x86\sqlite3.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\geomutil_lib.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\geomutil_libx64.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\SP.Arayuz.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\SP.Arayuz.deps.json
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\SP.Arayuz.runtimeconfig.json
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\Microsoft.Windows.SDK.NET.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\WinRT.Runtime.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\EGIS.Projections.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\EGIS.ShapeFileLib.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\SP.Lib.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Release\net6.0-windows10.0.17763.0\publish\SP.Lib.pdb

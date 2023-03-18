@@ -1,0 +1,364 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "EGIS.Projections/4.8.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/EGIS.Projections.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/EGIS.Projections.dll": {
+            "related": ".xml"
+          }
+        },
+        "contentFiles": {
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        },
+        "build": {
+          "build/net6.0-windows/_._": {}
+        }
+      },
+      "EGIS.ShapeFileLib/4.8.6": {
+        "type": "package",
+        "dependencies": {
+          "EGIS.Projections": "4.8.6"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/EGIS.ShapeFileLib.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/EGIS.ShapeFileLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ],
+        "contentFiles": {
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
+      "SP.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8.1",
+        "dependencies": {
+          "EGIS.Projections": "4.8.6",
+          "EGIS.ShapeFileLib": "4.8.6"
+        },
+        "compile": {
+          "bin/placeholder/SP.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SP.Lib.dll": {}
+        }
+      }
+    },
+    "net6.0-windows7.0/win-x86": {
+      "EGIS.Projections/4.8.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/EGIS.Projections.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/EGIS.Projections.dll": {
+            "related": ".xml"
+          }
+        },
+        "contentFiles": {
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        },
+        "build": {
+          "build/net6.0-windows/_._": {}
+        }
+      },
+      "EGIS.ShapeFileLib/4.8.6": {
+        "type": "package",
+        "dependencies": {
+          "EGIS.Projections": "4.8.6"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/EGIS.ShapeFileLib.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/EGIS.ShapeFileLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ],
+        "contentFiles": {
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
+      "SP.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8.1",
+        "dependencies": {
+          "EGIS.Projections": "4.8.6",
+          "EGIS.ShapeFileLib": "4.8.6"
+        },
+        "compile": {
+          "bin/placeholder/SP.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SP.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EGIS.Projections/4.8.6": {
+      "sha512": "uhxkyCinSiswC9VjXgBN9qfyUoz1xe259A+NY6AJZRZ8Fv4odrZ1qwo6et141X/TtjTC2fHKhlUhX+RpzrVd4A==",
+      "type": "package",
+      "path": "egis.projections/4.8.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net47/EGIS.Projections.props",
+        "build/net6.0-windows/EGIS.Projections.props",
+        "build/net6.0/EGIS.Projections.props",
+        "contentFiles/any/any/Proj/proj.db",
+        "contentFiles/any/any/Proj/x64/proj_9_0.dll",
+        "contentFiles/any/any/Proj/x64/sqlite3.dll",
+        "contentFiles/any/any/Proj/x86/proj_9_0.dll",
+        "contentFiles/any/any/Proj/x86/sqlite3.dll",
+        "egis.projections.4.8.6.nupkg.sha512",
+        "egis.projections.nuspec",
+        "lib/net47/EGIS.Projections.dll",
+        "lib/net47/EGIS.Projections.xml",
+        "lib/net6.0-windows7.0/EGIS.Projections.dll",
+        "lib/net6.0-windows7.0/EGIS.Projections.xml"
+      ]
+    },
+    "EGIS.ShapeFileLib/4.8.6": {
+      "sha512": "s101ZPY82+r95nCzS+VKPQlmAEEoHO5a/2JG1yhbjkjq/V+kruiLSJtLNhESx81g4B6/cgPcu50r5PsTtbQrGQ==",
+      "type": "package",
+      "path": "egis.shapefilelib/4.8.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net47/EGIS.ShapeFileLib.props",
+        "content/geomutil_lib.dll",
+        "content/geomutil_libx64.dll",
+        "contentFiles/any/net47/geomutil_lib.dll",
+        "contentFiles/any/net47/geomutil_libx64.dll",
+        "contentFiles/any/net6.0-windows7.0/geomutil_lib.dll",
+        "contentFiles/any/net6.0-windows7.0/geomutil_libx64.dll",
+        "egis.shapefilelib.4.8.6.nupkg.sha512",
+        "egis.shapefilelib.nuspec",
+        "lib/net47/EGIS.ShapeFileLib.dll",
+        "lib/net6.0-windows7.0/EGIS.ShapeFileLib.dll"
+      ]
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "sha512": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "type": "package",
+      "path": "microsoft.csharp/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcore50/Microsoft.CSharp.dll",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.3/Microsoft.CSharp.dll",
+        "lib/netstandard2.0/Microsoft.CSharp.dll",
+        "lib/netstandard2.0/Microsoft.CSharp.xml",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/uap10.0.16299/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "microsoft.csharp.4.7.0.nupkg.sha512",
+        "microsoft.csharp.nuspec",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netcore50/Microsoft.CSharp.dll",
+        "ref/netcore50/Microsoft.CSharp.xml",
+        "ref/netcore50/de/Microsoft.CSharp.xml",
+        "ref/netcore50/es/Microsoft.CSharp.xml",
+        "ref/netcore50/fr/Microsoft.CSharp.xml",
+        "ref/netcore50/it/Microsoft.CSharp.xml",
+        "ref/netcore50/ja/Microsoft.CSharp.xml",
+        "ref/netcore50/ko/Microsoft.CSharp.xml",
+        "ref/netcore50/ru/Microsoft.CSharp.xml",
+        "ref/netcore50/zh-hans/Microsoft.CSharp.xml",
+        "ref/netcore50/zh-hant/Microsoft.CSharp.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/Microsoft.CSharp.dll",
+        "ref/netstandard1.0/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/de/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/es/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/fr/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/it/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ja/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ko/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ru/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/zh-hans/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/zh-hant/Microsoft.CSharp.xml",
+        "ref/netstandard2.0/Microsoft.CSharp.dll",
+        "ref/netstandard2.0/Microsoft.CSharp.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/uap10.0.16299/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "SP.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SP.Lib/SP.Lib.csproj",
+      "msbuildProject": "../SP.Lib/SP.Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "SP.Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Raki\\.nuget\\packages\\": {},
+    "C:\\Users\\Raki\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Arayuz\\SP.Arayuz.csproj",
+      "projectName": "SP.Arayuz",
+      "projectPath": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Arayuz\\SP.Arayuz.csproj",
+      "packagesPath": "C:\\Users\\Raki\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Arayuz\\obj\\publish\\win-x86\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Users\\Raki\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Raki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Raki\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6-windows",
+          "projectReferences": {
+            "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Lib\\SP.Lib.csproj": {
+              "projectPath": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Lib\\SP.Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+            "version": "[6.0.15, 6.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x86",
+            "version": "[6.0.15, 6.0.15]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+            "version": "[6.0.15, 6.0.15]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
