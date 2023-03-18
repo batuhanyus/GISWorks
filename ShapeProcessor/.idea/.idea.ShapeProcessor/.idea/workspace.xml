@@ -7,13 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e47b74f-aa39-4708-851e-19ad02003d96" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShapeProcessor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShapeProcessor/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SP.Arayuz/Properties/PublishProfiles/FolderProfile.pubxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SP.Arayuz/obj/Release/net6.0-windows/win-x64/PublishOutputs.0bbabb3678.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Arayuz/obj/Release/net6.0-windows/win-x64/PublishOutputs.0bbabb3678.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SP.Arayuz/obj/Release/net6.0-windows/win-x64/SP.Arayuz.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Arayuz/obj/Release/net6.0-windows/win-x64/SP.Arayuz.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SP.Arayuz/obj/SP.Arayuz.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Arayuz/obj/SP.Arayuz.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SP.Arayuz/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Arayuz/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SP.Konsol/obj/SP.Konsol.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Konsol/obj/SP.Konsol.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SP.Konsol/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Konsol/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SP.Lib/obj/Debug/net481/SP.Lib.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Lib/obj/Debug/net481/SP.Lib.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SP.Lib/obj/SP.Lib.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Lib/obj/SP.Lib.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SP.Lib/obj/SP.Lib.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Lib/obj/SP.Lib.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SP.Lib/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Lib/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SP.Lib/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Lib/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SP.Lib/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SP.Lib/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +116,7 @@
       <workItem from="1679137598979" duration="3811000" />
       <workItem from="1679147197736" duration="730000" />
       <workItem from="1679154462091" duration="179000" />
+      <workItem from="1679168281778" duration="14000" />
     </task>
     <servers />
   </component>
