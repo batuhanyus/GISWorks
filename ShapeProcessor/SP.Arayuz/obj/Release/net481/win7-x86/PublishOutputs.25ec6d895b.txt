@@ -1,0 +1,13 @@
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\Proj\proj.db
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\Proj\x64\proj_9_0.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\Proj\x64\sqlite3.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\Proj\x86\proj_9_0.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\Proj\x86\sqlite3.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\geomutil_lib.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\geomutil_libx64.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\SP.Arayuz.exe
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\SP.Arayuz.exe.config
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\EGIS.Projections.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\EGIS.ShapeFileLib.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\SP.Lib.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Arayuz\bin\Publish\net481\ShapeProcessor\SP.Lib.pdb
