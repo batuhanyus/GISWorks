@@ -1,0 +1,15 @@
+D:\Projects\PANProject\Pan.Lib\bin\Debug\net7.0\Pan.Lib.deps.json
+D:\Projects\PANProject\Pan.Lib\bin\Debug\net7.0\Pan.Lib.dll
+D:\Projects\PANProject\Pan.Lib\bin\Debug\net7.0\Pan.Lib.pdb
+D:\Projects\PANProject\Pan.Lib\obj\Debug\net7.0\Pan.Lib.csproj.AssemblyReference.cache
+D:\Projects\PANProject\Pan.Lib\obj\Debug\net7.0\Pan.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PANProject\Pan.Lib\obj\Debug\net7.0\Pan.Lib.AssemblyInfoInputs.cache
+D:\Projects\PANProject\Pan.Lib\obj\Debug\net7.0\Pan.Lib.AssemblyInfo.cs
+D:\Projects\PANProject\Pan.Lib\obj\Debug\net7.0\Pan.Lib.csproj.CoreCompileInputs.cache
+D:\Projects\PANProject\Pan.Lib\obj\Debug\net7.0\Pan.Lib.dll
+D:\Projects\PANProject\Pan.Lib\obj\Debug\net7.0\refint\Pan.Lib.dll
+D:\Projects\PANProject\Pan.Lib\obj\Debug\net7.0\Pan.Lib.pdb
+D:\Projects\PANProject\Pan.Lib\obj\Debug\net7.0\ref\Pan.Lib.dll
+D:\Projects\PANProject\Pan.Lib\bin\Debug\net7.0\MathM.dll
+D:\Projects\PANProject\Pan.Lib\obj\Debug\net7.0\Pan.Lib.csproj.CopyComplete
+D:\Projects\PANProject\Pan.Lib\bin\Debug\net7.0\Vendor\MathM.dll
