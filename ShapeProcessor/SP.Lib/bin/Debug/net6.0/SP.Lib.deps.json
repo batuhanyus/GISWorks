@@ -1,0 +1,115 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SP.Lib/1.0.0": {
+        "dependencies": {
+          "EGIS.Projections": "4.8.6",
+          "EGIS.ShapeFileLib": "4.8.6",
+          "System.Drawing.Common": "7.0.0"
+        },
+        "runtime": {
+          "SP.Lib.dll": {}
+        }
+      },
+      "EGIS.Projections/4.8.6": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        }
+      },
+      "EGIS.ShapeFileLib/4.8.6": {
+        "dependencies": {
+          "EGIS.Projections": "4.8.6"
+        },
+        "runtime": {
+          "lib/net47/EGIS.ShapeFileLib.dll": {
+            "assemblyVersion": "4.8.6.0",
+            "fileVersion": "4.8.6.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Win32.SystemEvents/7.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Drawing.Common/7.0.0": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SP.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EGIS.Projections/4.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uhxkyCinSiswC9VjXgBN9qfyUoz1xe259A+NY6AJZRZ8Fv4odrZ1qwo6et141X/TtjTC2fHKhlUhX+RpzrVd4A==",
+      "path": "egis.projections/4.8.6",
+      "hashPath": "egis.projections.4.8.6.nupkg.sha512"
+    },
+    "EGIS.ShapeFileLib/4.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s101ZPY82+r95nCzS+VKPQlmAEEoHO5a/2JG1yhbjkjq/V+kruiLSJtLNhESx81g4B6/cgPcu50r5PsTtbQrGQ==",
+      "path": "egis.shapefilelib/4.8.6",
+      "hashPath": "egis.shapefilelib.4.8.6.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2nXPrhdAyAzir0gLl8Yy8S5Mnm/uBSQQA7jEsILOS1MTyS7DbmV1NgViMtvV1sfCD1ebITpNwb1NIinKeJgUVQ==",
+      "path": "microsoft.win32.systemevents/7.0.0",
+      "hashPath": "microsoft.win32.systemevents.7.0.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KIX+oBU38pxkKPxvLcLfIkOV5Ien8ReN78wro7OF5/erwcmortzeFx+iBswlh2Vz6gVne0khocQudGwaO1Ey6A==",
+      "path": "system.drawing.common/7.0.0",
+      "hashPath": "system.drawing.common.7.0.0.nupkg.sha512"
+    }
+  }
+}

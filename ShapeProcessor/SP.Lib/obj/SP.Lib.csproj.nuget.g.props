@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Batuhan\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.4.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\Batuhan\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)egis.projections\4.8.6\contentFiles\any\any\Proj\proj.db" Condition="Exists('$(NuGetPackageRoot)egis.projections\4.8.6\contentFiles\any\any\Proj\proj.db')">
+      <NuGetPackageId>EGIS.Projections</NuGetPackageId>
+      <NuGetPackageVersion>4.8.6</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Proj\proj.db</TargetPath>
+      <DestinationSubDirectory>Proj\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Proj\proj.db</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)egis.projections\4.8.6\contentFiles\any\any\Proj\x64\proj_9_0.dll" Condition="Exists('$(NuGetPackageRoot)egis.projections\4.8.6\contentFiles\any\any\Proj\x64\proj_9_0.dll')">
+      <NuGetPackageId>EGIS.Projections</NuGetPackageId>
+      <NuGetPackageVersion>4.8.6</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Proj\x64\proj_9_0.dll</TargetPath>
+      <DestinationSubDirectory>Proj\x64\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Proj\x64\proj_9_0.dll</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)egis.projections\4.8.6\contentFiles\any\any\Proj\x64\sqlite3.dll" Condition="Exists('$(NuGetPackageRoot)egis.projections\4.8.6\contentFiles\any\any\Proj\x64\sqlite3.dll')">
+      <NuGetPackageId>EGIS.Projections</NuGetPackageId>
+      <NuGetPackageVersion>4.8.6</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Proj\x64\sqlite3.dll</TargetPath>
+      <DestinationSubDirectory>Proj\x64\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Proj\x64\sqlite3.dll</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)egis.projections\4.8.6\contentFiles\any\any\Proj\x86\proj_9_0.dll" Condition="Exists('$(NuGetPackageRoot)egis.projections\4.8.6\contentFiles\any\any\Proj\x86\proj_9_0.dll')">
+      <NuGetPackageId>EGIS.Projections</NuGetPackageId>
+      <NuGetPackageVersion>4.8.6</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Proj\x86\proj_9_0.dll</TargetPath>
+      <DestinationSubDirectory>Proj\x86\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Proj\x86\proj_9_0.dll</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)egis.projections\4.8.6\contentFiles\any\any\Proj\x86\sqlite3.dll" Condition="Exists('$(NuGetPackageRoot)egis.projections\4.8.6\contentFiles\any\any\Proj\x86\sqlite3.dll')">
+      <NuGetPackageId>EGIS.Projections</NuGetPackageId>
+      <NuGetPackageVersion>4.8.6</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Proj\x86\sqlite3.dll</TargetPath>
+      <DestinationSubDirectory>Proj\x86\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Proj\x86\sqlite3.dll</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)egis.shapefilelib\4.8.6\contentFiles\any\net47\geomutil_lib.dll" Condition="Exists('$(NuGetPackageRoot)egis.shapefilelib\4.8.6\contentFiles\any\net47\geomutil_lib.dll')">
+      <NuGetPackageId>EGIS.ShapeFileLib</NuGetPackageId>
+      <NuGetPackageVersion>4.8.6</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>geomutil_lib.dll</TargetPath>
+      <Private>True</Private>
+      <Link>geomutil_lib.dll</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)egis.shapefilelib\4.8.6\contentFiles\any\net47\geomutil_libx64.dll" Condition="Exists('$(NuGetPackageRoot)egis.shapefilelib\4.8.6\contentFiles\any\net47\geomutil_libx64.dll')">
+      <NuGetPackageId>EGIS.ShapeFileLib</NuGetPackageId>
+      <NuGetPackageVersion>4.8.6</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>geomutil_libx64.dll</TargetPath>
+      <Private>True</Private>
+      <Link>geomutil_libx64.dll</Link>
+    </Content>
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)egis.projections\4.8.6\build\net47\EGIS.Projections.props" Condition="Exists('$(NuGetPackageRoot)egis.projections\4.8.6\build\net47\EGIS.Projections.props')" />
+    <Import Project="$(NuGetPackageRoot)egis.shapefilelib\4.8.6\build\net47\EGIS.ShapeFileLib.props" Condition="Exists('$(NuGetPackageRoot)egis.shapefilelib\4.8.6\build\net47\EGIS.ShapeFileLib.props')" />
+  </ImportGroup>
+</Project>

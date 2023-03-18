@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net481</TargetFramework>
+        <ImplicitUsings>disable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="EGIS.Projections" Version="4.8.6" />
+      <PackageReference Include="EGIS.ShapeFileLib" Version="4.8.6" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "roBTQ0EhRwPzuCBP0zGPTlpsSgLd0DDA9nuzrjauq5Vx1bdKoa25ULLgG55UVyXTTeAPo6cnMEz/TfoNW3P7tQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Konsol\\SP.Konsol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Batuhan\\.nuget\\packages\\egis.projections\\4.8.6\\egis.projections.4.8.6.nupkg.sha512",
+    "C:\\Users\\Batuhan\\.nuget\\packages\\egis.shapefilelib\\4.8.6\\egis.shapefilelib.4.8.6.nupkg.sha512",
+    "C:\\Users\\Batuhan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

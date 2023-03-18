@@ -1,0 +1,17 @@
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net6.0\SP.Lib.deps.json
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net6.0\SP.Lib.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net6.0\SP.Lib.pdb
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net6.0\SP.Lib.csproj.AssemblyReference.cache
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net6.0\SP.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net6.0\SP.Lib.AssemblyInfoInputs.cache
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net6.0\SP.Lib.AssemblyInfo.cs
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net6.0\SP.Lib.csproj.CoreCompileInputs.cache
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net6.0\SP.Lib.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net6.0\refint\SP.Lib.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net6.0\SP.Lib.pdb
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\obj\Debug\net6.0\ref\SP.Lib.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net6.0\Proj\proj.db
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net6.0\Proj\x64\proj_9_0.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net6.0\Proj\x64\sqlite3.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net6.0\Proj\x86\proj_9_0.dll
+D:\Projects\GISWorks\ShapeProcessor\SP.Lib\bin\Debug\net6.0\Proj\x86\sqlite3.dll
