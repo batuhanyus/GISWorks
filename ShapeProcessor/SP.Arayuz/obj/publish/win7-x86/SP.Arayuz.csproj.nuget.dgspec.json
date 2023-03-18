@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Arayuz\\SP.Arayuz.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Arayuz\\SP.Arayuz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Arayuz\\SP.Arayuz.csproj",
+        "projectName": "SP.Arayuz",
+        "projectPath": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Arayuz\\SP.Arayuz.csproj",
+        "packagesPath": "C:\\Users\\Raki\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Arayuz\\obj\\publish\\win7-x86\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\Raki\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Raki\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {
+              "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Lib\\SP.Lib.csproj": {
+                "projectPath": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Lib\\SP.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Lib\\SP.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Lib\\SP.Lib.csproj",
+        "projectName": "SP.Lib",
+        "projectPath": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Lib\\SP.Lib.csproj",
+        "packagesPath": "C:\\Users\\Raki\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\Raki\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Raki\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "dependencies": {
+            "EGIS.Projections": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
+            "EGIS.ShapeFileLib": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
