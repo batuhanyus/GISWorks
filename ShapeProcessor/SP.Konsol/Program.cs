@@ -7,11 +7,11 @@ namespace SP.Konsol
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
             ShapeFileService shapeFileService = new ShapeFileService();
+            var result = shapeFileService.ReadShapeFile(@"D:\Projects\GISWorks\ShapeProcessor\exShape\bolgeler.shp");
+            shapeFileService.WriteAsCSV(@"D:\Projects\GISWorks\ShapeProcessor\exShape\bolgeler.csv", result);
 
-            shapeFileService.LoadShapeFile(@"D:\Projects\GISWorks\ShapeProcessor\exShape\bolgeler.shp");
+            Console.ReadKey();
         }
     }
 }

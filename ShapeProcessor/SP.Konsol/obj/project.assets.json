@@ -279,8 +279,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Batuhan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Raki\\.nuget\\packages\\": {},
+    "C:\\Users\\Raki\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -288,15 +288,15 @@
       "projectUniqueName": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Konsol\\SP.Konsol.csproj",
       "projectName": "SP.Konsol",
       "projectPath": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Konsol\\SP.Konsol.csproj",
-      "packagesPath": "C:\\Users\\Batuhan\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Raki\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\GISWorks\\ShapeProcessor\\SP.Konsol\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Users\\Raki\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Batuhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Raki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Raki\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -325,7 +325,7 @@
     "frameworks": {
       "net481": {
         "targetAlias": "net481",
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -1,8 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP.Lib", "SP.Lib\SP.Lib.csproj", "{40650977-9D62-479B-A279-11810864F58D}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SP.Lib", "SP.Lib\SP.Lib.csproj", "{40650977-9D62-479B-A279-11810864F58D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP.Konsol", "SP.Konsol\SP.Konsol.csproj", "{0D1D0C81-1D27-48F9-A566-E610331C65E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SP.Konsol", "SP.Konsol\SP.Konsol.csproj", "{0D1D0C81-1D27-48F9-A566-E610331C65E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP.Arayuz", "SP.Arayuz\SP.Arayuz.csproj", "{92336805-B9AF-4383-B570-B9D8C04A382E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +23,12 @@ Global
 		{0D1D0C81-1D27-48F9-A566-E610331C65E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D1D0C81-1D27-48F9-A566-E610331C65E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D1D0C81-1D27-48F9-A566-E610331C65E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92336805-B9AF-4383-B570-B9D8C04A382E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92336805-B9AF-4383-B570-B9D8C04A382E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92336805-B9AF-4383-B570-B9D8C04A382E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92336805-B9AF-4383-B570-B9D8C04A382E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
