@@ -77,7 +77,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.8.1/win-x64": {
+    ".NETFramework,Version=v4.8.1/win7-x86": {
       "EGIS.Projections/4.8.6": {
         "type": "package",
         "dependencies": {
@@ -329,7 +329,7 @@
       }
     },
     "runtimes": {
-      "win-x64": {
+      "win7-x86": {
         "#import": []
       }
     }
