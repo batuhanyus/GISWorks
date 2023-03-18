@@ -96,8 +96,13 @@ namespace SP.Arayuz
 
             foreach (var polygon in polygons)
             {
-                WriteLog($"\nPoligon: {polygons.IndexOf(polygon) + 1} - UpLeft LAT: {polygon.UpperLeftCorner.Y} - UpLeft LON: {polygon.UpperLeftCorner.X} " +
-                    $"- LowRight LAT: {polygon.LowerRightCorner.Y} - LowRight LON: {polygon.LowerRightCorner.X} - Center LAT: {polygon.CenterPoint.Y} - Center LON: {polygon.CenterPoint.X}");
+                WriteLog($"\nPoligon: {polygons.IndexOf(polygon) + 1}"+
+                    $"\nUpLeft LAT: {polygon.UpperLeftCorner.Y}" +
+                    $" --- UpLeft LON: {polygon.UpperLeftCorner.X} " +
+                    $"\nLowRight LAT: {polygon.LowerRightCorner.Y}" +
+                    $" --- LowRight LON: {polygon.LowerRightCorner.X}" +
+                    $"\nCenter LAT: {polygon.CenterPoint.Y}" +
+                    $" --- Center LON: {polygon.CenterPoint.X}");
             }
 
 

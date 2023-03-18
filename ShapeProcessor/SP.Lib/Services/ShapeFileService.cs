@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using System.Threading.Tasks;
 using EGIS.ShapeFileLib;
 using SP.Lib.Models;
 
@@ -67,7 +68,7 @@ namespace SP.Lib
             {
                 var polygon = result.Polygons[i];
 
-                string s = (i+1) + "," + polygon.UpperLeftCorner.Y + "," + polygon.UpperLeftCorner.X + "," +
+                string s = (i + 1) + "," + polygon.UpperLeftCorner.Y + "," + polygon.UpperLeftCorner.X + "," +
                            polygon.LowerRightCorner.Y + "," + polygon.LowerRightCorner.X + "," +
                            polygon.CenterPoint.Y + "," + polygon.CenterPoint.X;
 

@@ -25,5 +25,7 @@ namespace SP.Lib.Models
             CenterPoint = new PointD((UpperLeftCorner.X + LowerRightCorner.X) / 2,
                 (UpperLeftCorner.Y + LowerRightCorner.Y) / 2);
         }
+
+        
     }
 }
