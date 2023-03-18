@@ -1,0 +1,15 @@
+D:\Projects\PANProject\Pan.Konsol\bin\Debug\net7.0\Pan.Konsol.exe
+D:\Projects\PANProject\Pan.Konsol\bin\Debug\net7.0\Pan.Konsol.deps.json
+D:\Projects\PANProject\Pan.Konsol\bin\Debug\net7.0\Pan.Konsol.runtimeconfig.json
+D:\Projects\PANProject\Pan.Konsol\bin\Debug\net7.0\Pan.Konsol.dll
+D:\Projects\PANProject\Pan.Konsol\bin\Debug\net7.0\Pan.Konsol.pdb
+D:\Projects\PANProject\Pan.Konsol\obj\Debug\net7.0\Pan.Konsol.csproj.AssemblyReference.cache
+D:\Projects\PANProject\Pan.Konsol\obj\Debug\net7.0\Pan.Konsol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PANProject\Pan.Konsol\obj\Debug\net7.0\Pan.Konsol.AssemblyInfoInputs.cache
+D:\Projects\PANProject\Pan.Konsol\obj\Debug\net7.0\Pan.Konsol.AssemblyInfo.cs
+D:\Projects\PANProject\Pan.Konsol\obj\Debug\net7.0\Pan.Konsol.csproj.CoreCompileInputs.cache
+D:\Projects\PANProject\Pan.Konsol\obj\Debug\net7.0\Pan.Konsol.dll
+D:\Projects\PANProject\Pan.Konsol\obj\Debug\net7.0\refint\Pan.Konsol.dll
+D:\Projects\PANProject\Pan.Konsol\obj\Debug\net7.0\Pan.Konsol.pdb
+D:\Projects\PANProject\Pan.Konsol\obj\Debug\net7.0\Pan.Konsol.genruntimeconfig.cache
+D:\Projects\PANProject\Pan.Konsol\obj\Debug\net7.0\ref\Pan.Konsol.dll
